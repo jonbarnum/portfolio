@@ -45,6 +45,16 @@ function Projects(){
                                 GitHub Code
                             </a>}
                         </button>
+                        <button>
+                            {<a 
+                                href="https://gregarious-fox-5b010b.netlify.app/" 
+                                rel="noreferrer" 
+                                target='_blank'
+                                className="levelProjects"
+                            >
+                                Live Page
+                            </a>}
+                        </button>
                     </div>
                     <p className="projectInfo">
                         For the Level Four Capstone, I used a get request from NASA API. I created three different page views with different content on each one. A user can find out information about upcoming launches, space stations, and astronauts. 
